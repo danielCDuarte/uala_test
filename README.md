@@ -9,6 +9,12 @@ En esta prueba implemente a nivel de arquitectura clean arquitecture con mvvvm(S
 - Se implemento persistencia de datos para las ciudades favoritas con swiftData.
 - Se crearon pruebas unitarias implementando las estrategias de los test doubles.
 - Se crearon pruebas de Ui implementando Snapshot-testing.
+
+- Se logro un coverage del proyecto base del 83%:
+
+![Screenshot 2024-11-19 at 9 45 32 PM](https://github.com/user-attachments/assets/06b82d45-cab7-41f0-b480-4598c7368468)
+
+- Printscreen de la app:
   
 ![Simulator Screenshot - iPhone 16 Pro - 2024-11-19 at 21 37 11](https://github.com/user-attachments/assets/5249dab6-d711-42ca-81ba-161bfc3490d1)
 
