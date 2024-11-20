@@ -8,6 +8,7 @@ En esta prueba implemente a nivel de arquitectura clean arquitecture con mvvvm(S
 - Se realizo la implementacion de network service con urlSession para el consumo de api rest.
 - Se implemento persistencia de datos para las ciudades favoritas con swiftData.
 - Se crearon pruebas unitarias implementando las estrategias de los test doubles.
+- Se crearon pruebas de Ui implementando Snapshot-testing.
   
 ![Simulator Screenshot - iPhone 16 Pro - 2024-11-19 at 21 37 11](https://github.com/user-attachments/assets/5249dab6-d711-42ca-81ba-161bfc3490d1)
 
